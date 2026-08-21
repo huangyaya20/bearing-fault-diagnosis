@@ -1,0 +1,2 @@
+# placeholder to ensure the `data/` directory is tracked by git
+# Put your .mat dataset files into this folder (e.g. B007_0.mat, B007_1.mat)
